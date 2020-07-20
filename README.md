@@ -1,16 +1,24 @@
-### Hi there 👋
+## Dongmin Kang ***@riyenas0925***
 
-<!--
-**riyenas0925/riyenas0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+* [Dept. of Electronics and Information Engineering, Sejong Univ](http://home.sejong.ac.kr/~electrodpt/16.html)
 
-Here are some ideas to get you started:
+### 🌱 Technical Skills
+#### ✨ SoftWare
+* **Languages**: Java, C, C++, TypeScript, JavaScript, Python3, Matlab
+* **Framework**: Spring Boot, Spring, Node.js
+* **Dev IDE**: IntelliJ, PyCharm, Android Studio, VSCode, Visual Studio
+* **Tools**: Git, Github, SourceTree, Jenkins, Docker, Travis CI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Hardware
+* **Artwork**: Eagle CAD, OrCAD, Altium
+* **Microcontroller**
+  * **8Bit**
+    * **Atmel**: ATemga, ATtiny, AT89S series
+    * **Microchip**: PIC16F series
+    * **ST**: STM8S series
+    * **Arduino**: uno, mega, mini, nano
+  * **32Bit**
+    * **ST**: M0, M3, M4, M7 STM32F series
+* **Sordering**: SMD(QFN, TQFP, SOP, BGA ...), DIP
+* **IDE**: Atmel Studio, CodeVision, Atollic TrueSTUDIO, STM32CubeMX
