@@ -1,7 +1,7 @@
 ## Dongmin Kang ***@riyenas0925***
 
 ### 🎓 Education
-* [Dept. of Electronics and Information Engineering, Sejong Univ](http://home.sejong.ac.kr/~electrodpt/16.html)
+* Dept. of Electronics and Information Engineering, [Sejong Univ](http://home.sejong.ac.kr/~electrodpt/16.html)
 
 ### 🌱 Technical Skills
 #### ✨ SoftWare
