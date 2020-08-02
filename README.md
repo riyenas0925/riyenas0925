@@ -1,4 +1,4 @@
-## Dongmin Kang ***@riyenas0925***
+## Dongmin Kang ***@riyenas0925*** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friyenas0925)](https://hits.seeyoufarm.com)
 
 ### 🎓 Education
 * Dept. of Electronics and Information Engineering, [Sejong Univ](http://home.sejong.ac.kr/~electrodpt/16.html)
