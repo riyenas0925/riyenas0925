@@ -4,7 +4,7 @@
 새로운 것을 배우는 걸 즐기고, 무엇인가를 만드는 것을 좋아합니다.
 
 ### 🎓 Profile
-* 세종대학교 전자정보통신공학과 재학중 (2017~), [Sejong Univ](http://home.sejong.ac.kr/~electrodpt/16.html)
+* 세종대학교 전자정보통신공학과 재학중 (2017~)
 
 <div align=center>
   
