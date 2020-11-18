@@ -5,3 +5,10 @@
 
 ### 🎓 Profile
 * 세종대학교 전자정보통신공학과 재학중 (2017~), [Sejong Univ](http://home.sejong.ac.kr/~electrodpt/16.html)
+
+<div align=center>
+  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riyenas0925@gmail.com)](mailto:riyenas0925@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=https://blog.riyenas.dev)](https://blog.riyenas.dev)
+
+</div>
