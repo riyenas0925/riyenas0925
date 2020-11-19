@@ -14,6 +14,6 @@
 
 <div align="center">
   
-[![Riyenas's github stats](https://github-readme-stats.vercel.app/api?username=riyenas0925&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Riyenas's github stats](https://github-readme-stats.vercel.app/api?username=riyenas0925&show_icons=true&theme=vue)](https://github.com/riyenas0925)
 
 </div>
