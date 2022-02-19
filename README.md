@@ -1,6 +1,6 @@
 ## Dongmin Kang ***@riyenas0925*** ![](https://komarev.com/ghpvc/?username=riyenas0925&label=Profile+views) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friyenas0925)](https://hits.seeyoufarm.com)
 
-안녕하세요, 새로운 것을 배우는 걸 즐기고, 무엇인가를 만드는 것을 좋아하는 백엔드 개발자 강동민입니다.
+안녕하세요, 백엔드 개발자 강동민입니다.
 
 ### 🔥 Interests
 * 클린 코드, TDD에 관심이 많으며, 어떻게 하면 유지 보수가 편한 코드를 작성할지 고민합니다.
