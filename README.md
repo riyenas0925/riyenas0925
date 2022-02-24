@@ -11,11 +11,6 @@
 * 과학기술정보통신부, 오픈소스 컨트리뷰션 아카데미 (2021.08~11)
 * 과학기술정보통신부, 군장병 공개SW 역량강화교육 (2020.06~10)
 
-### 🏆 Awards
-* 과학기술정보통신부, 오픈소스 컨트리뷰톤, 장려상/정보통신업진흥원장상 (2021.11)
-* 과학기술정보통신부, 군장병 공개SW 해커톤, 국방부장관상 (2020.11)
-* 세종대학교, 제4회 SW해커톤, 대상 (2018.06)
-
 ### 🛠 Tech Stack
 <p align="center">
  <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
