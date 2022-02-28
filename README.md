@@ -1,26 +1,18 @@
 ## Dongmin Kang ***@riyenas0925*** ![](https://komarev.com/ghpvc/?username=riyenas0925&label=Profile+views) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friyenas0925)](https://hits.seeyoufarm.com)
 
 ### 🔥 Interests
-* 클린 코드, TDD에 관심이 많으며, 어떻게 하면 유지 보수가 편한 코드를 작성할지 고민합니다.
-* 개발 방법론을 공부해 어떻게 하면 팀 프로젝트를 잘할 수 있을지 공부합니다.
-* 기술뿐만 아니라 협업에 있어 함께하고 싶은 사람이 되기 위해 끊임없이 회고합니다.
-* 오픈소스에 도움이 될 수 있다면 자그마한 내용이라고 공유하고 기여합니다.
-
-### 🔬 Experience
-* LG 전자, SW공학(연) Open Source Task 인턴 (2021.11~12)
-* 과학기술정보통신부, 오픈소스 컨트리뷰션 아카데미 (2021.08~11)
-* 과학기술정보통신부, 군장병 공개SW 역량강화교육 (2020.06~10)
+- 안녕하세요! **몰입의 즐거움**과 **경험의 공유**를 사랑하는 개발자, 강동민입니다.
+- **Clean Code, Test**에 관심이 많고, **유지 보수**가 편한 코드를 작성하기 위해 항상 **고민**합니다.
+- 기술뿐만 아니라 **함께하고 싶은 사람**이 되기 위해 끊임없이 **회고**합니다.
+- **오픈소스**에 도움이 될 수 있다면 자그마한 내용이라고 **공유**하고 **기여**합니다.
 
 ### 🛠 Tech Stack
 <p align="center">
  <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
- <a><img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/></a>
  </br>
  <a><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
- <a><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/></a>
- <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/></a>
 </p>
