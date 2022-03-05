@@ -1,6 +1,6 @@
 ## Dongmin Kang ***@riyenas0925*** ![](https://komarev.com/ghpvc/?username=riyenas0925&label=Profile+views) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friyenas0925)](https://hits.seeyoufarm.com)
 
-안녕하세요! **몰입의 즐거움**과 **경험의 공유**를 사랑하는 개발자, 강동민입니다.
+안녕하세요! **몰입의 즐거움**과 **경험의 공유**를 지향하는 개발자, 강동민입니다.
 
 
 ### 🔥 Interests
