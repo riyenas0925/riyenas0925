@@ -26,13 +26,13 @@
 ### 더 알아보기 👇
 
 <p align="center">
- <a href="https://blog.riyenas.dev/">
+ <a href="https://blog.riyenas.dev/" target="_blank">
    <img src="https://img.shields.io/badge/Tech_Blog-blue?style=flat-square&logoColor=white"/>
  </a>
- <a>
+ <a target="_blank">
    <img src="https://img.shields.io/badge/Resume-orange?style=flat-square&logoColor=white"/>
  </a>
- <a>
+ <a target="_blank">
    <img src="https://img.shields.io/badge/Portfolio-yellowgreen?style=flat-square&logoColor=white"/>
  </a>
 </p>
