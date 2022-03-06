@@ -23,4 +23,17 @@
   
 [![Riyenas's github stats](https://github-readme-stats.vercel.app/api?username=riyenas0925&show_icons=true&theme=vue)](https://github.com/riyenas0925)
 
+### 더 알아보기 👇
+
+<p align="center">
+ <a href="https://blog.riyenas.dev/">
+   <img src="https://img.shields.io/badge/Tech_Blog-blue?style=flat-square&logoColor=white"/>
+ </a>
+ <a>
+   <img src="https://img.shields.io/badge/Resume-orange?style=flat-square&logoColor=white"/>
+ </a>
+ <a>
+   <img src="https://img.shields.io/badge/Portfolio-yellowgreen?style=flat-square&logoColor=white"/>
+ </a>
+</p>
 </div>
