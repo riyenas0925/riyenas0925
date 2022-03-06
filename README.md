@@ -19,9 +19,9 @@
  <a><img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/></a>
 </p>
 
-<div align="center">  
- [![Riyenas's github stats](https://github-readme-stats.vercel.app/api?username=riyenas0925&show_icons=true&theme=vue)](https://github.com/riyenas0925)
-</div>
+<div align="center">
+ 
+[![Riyenas's github stats](https://github-readme-stats.vercel.app/api?username=riyenas0925&show_icons=true&theme=vue)](https://github.com/riyenas0925)
 
 ### 더 알아보기 👇
 
@@ -36,3 +36,5 @@
    <img src="https://img.shields.io/badge/Portfolio-yellowgreen?style=flat-square&logoColor=white"/>
  </a>
 </p>
+
+</div>
