@@ -21,7 +21,7 @@
 
 <div align="center">
  
-[![Riyenas's github stats](https://github-readme-stats.vercel.app/api?username=riyenas0925&show_icons=true&theme=vue)](https://github.com/riyenas0925)
+[![Riyenas's github stats](https://github-readme-stats.vercel.app/api?username=riyenas0925&show_icons=true)](https://github.com/riyenas0925)
 
 ### 더 알아보기 👇
 
