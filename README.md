@@ -32,9 +32,6 @@
  <a target='_blank'>
    <img src='https://img.shields.io/badge/Resume-orange?style=flat-square&logoColor=white'/>
  </a>
- <a target='_blank'>
-   <img src='https://img.shields.io/badge/Portfolio-yellowgreen?style=flat-square&logoColor=white'/>
- </a>
 </p>
 
 </div>
